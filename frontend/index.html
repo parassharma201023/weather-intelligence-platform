@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Weather Intelligence | India Analytics</title><link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""><link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<aside class="sidebar">
+  <div class="brand"><div class="brand-icon">☁</div><div><h1>Weather Intelligence</h1><p>INDIA WEATHER ANALYTICS</p></div></div>
+  <nav>
+    <a class="nav-item active" href="#overview">▦ <span>Dashboard</span></a>
+    <a class="nav-item" href="#current">☼ <span>Current Weather</span></a>
+    <a class="nav-item" href="#forecast">▤ <span>Forecast</span></a>
+    <a class="nav-item" href="#districts">⌖ <span>District Explorer</span></a>
+    <a class="nav-item" href="#insights">◫ <span>Data Insights</span></a>
+  </nav>
+  <div class="sidebar-bottom"><div class="side-glow"></div><p class="tagline">Accurate Data.<br>Better Decisions.</p><div class="side-stat"><span class="pulse"></span><div><small>API STATUS</small><strong id="sideApiStatus">Connecting…</strong></div></div><div class="side-stat"><span class="side-icon">⌖</span><div><small>TOTAL DISTRICTS</small><strong id="sideDistrictCount">—</strong></div></div></div>
+</aside>
+<div class="main-shell">
+<header class="topbar">
+  <button id="menuToggle" class="icon-button" aria-label="Toggle menu">☰</button>
+  <div class="searchbox">⌕ <input id="districtSearch" type="search" placeholder="Search districts (e.g. Jaipur, Surat…)"></div>
+  <div class="top-meta"><span class="location-mark">⌖</span><span>India</span><span class="top-divider"></span><div><small id="todayDate">Weather analytics</small><strong>District monitoring</strong></div><span class="avatar">WI</span></div>
+</header>
+<main class="container" id="overview">
+  <section class="welcome"><div><p class="eyebrow">LIVE WEATHER INTELLIGENCE</p><h2>India Weather Dashboard</h2><p class="subtitle">Current conditions and 7-day forecast across Indian districts.</p></div><div class="header-actions"><span class="status-pill"><i class="status-dot"></i><span id="apiStatus">Connecting to API…</span></span><button id="refreshButton" class="primary-button">↻ Refresh data</button></div></section>
+  <section class="filters compact-filters">
+    <div class="filter-field"><label for="stateSelect">State / UT</label><select id="stateSelect"><option value="">All States</option></select></div>
+    <button id="resetFilters" class="secondary-button">Reset filters</button>
+    <div id="message" class="message" role="status">Loading weather data…</div>
+  </section>
+  <section class="summary-grid" id="current">
+    <article class="metric-card temp-card"><div class="metric-top"><span class="metric-icon">☀</span><span class="metric-label">AVG TEMPERATURE</span></div><h3 id="avgTemperature">—</h3><p>Across selected districts</p><div class="sparkline orange">⌁⌁⌁⌁⌁</div></article>
+    <article class="metric-card humidity-card"><div class="metric-top"><span class="metric-icon">♢</span><span class="metric-label">AVG HUMIDITY</span></div><h3 id="avgHumidity">—</h3><p>Relative humidity</p><div class="sparkline blue">⌁⌁⌁⌁⌁</div></article>
+    <article class="metric-card wind-card"><div class="metric-top"><span class="metric-icon">≋</span><span class="metric-label">AVG WIND SPEED</span></div><h3 id="avgWind">—</h3><p>Wind speed in km/h</p><div class="sparkline green">⌁⌁⌁⌁⌁</div></article>
+    <article class="metric-card districts-card"><div class="metric-top"><span class="metric-icon">⌖</span><span class="metric-label">DISTRICTS IN VIEW</span></div><h3 id="districtCount">—</h3><p id="districtCountCaption">Available district records</p><div class="sparkline purple">⌁⌁⌁⌁⌁</div></article>
+  </section>
+  <section class="panel map-panel" id="indiaMapSection">
+    <div class="section-heading"><div><h2>India Weather Map</h2><p>District markers follow the active state/search filter. Select a marker to inspect a district.</p></div><span class="panel-mark" id="mapPointCount">MAP VIEW</span></div>
+    <div id="indiaWeatherMap" role="application" aria-label="Interactive map of India"></div>
+    <p id="mapMessage" class="map-note">Loading India map…</p>
+  </section>
+  <section class="content-grid">
+    <article class="panel selected-panel">
+      <div class="section-heading"><div><h2>District Weather Explorer</h2><p>Choose a district to inspect current conditions</p></div><span class="panel-mark">LIVE DATA</span></div>
+      <div class="district-select-wrap"><label for="forecastDistrict">Selected district</label><select id="forecastDistrict"><option value="">Choose a district</option></select></div>
+      <div id="selectedWeather" class="selected-weather"><div class="weather-symbol">🌤</div><div><h3>Select a district</h3><p>Current weather details will appear here.</p></div></div>
+      <div class="detail-grid"><div><span>Feels like</span><strong id="selectedFeels">—</strong></div><div><span>Humidity</span><strong id="selectedHumidity">—</strong></div><div><span>Rainfall</span><strong id="selectedRain">—</strong></div><div><span>Wind speed</span><strong id="selectedWind">—</strong></div></div>
+    </article>
+    <article class="panel forecast-panel" id="forecast"><div class="section-heading"><div><h2>7-Day Forecast</h2><p>Daily temperature range and precipitation</p></div><span class="forecast-badge">7 DAYS</span></div><div id="forecastMessage" class="message">Select a district to load its forecast.</div><div id="forecastCards" class="forecast-grid"></div></article>
+  </section>
+  <section class="content-grid lower-grid" id="insights">
+    <article class="panel ranking-panel"><div class="section-heading"><div><h2>Hottest Districts</h2><p>Highest current temperatures</p></div><span class="rank-icon hot">↑</span></div><div id="hotDistricts" class="rank-list"><p class="muted">Waiting for data…</p></div></article>
+    <article class="panel ranking-panel"><div class="section-heading"><div><h2>Coldest Districts</h2><p>Lowest current temperatures</p></div><span class="rank-icon cold">↓</span></div><div id="coldDistricts" class="rank-list"><p class="muted">Waiting for data…</p></div></article>
+  </section>
+  <section class="panel data-section" id="districts">
+    <div class="section-heading"><div><h2>District Weather Records</h2><p>Browse and compare current conditions</p></div><span class="table-count" id="tableCount">0 records</span></div>
+    <div class="table-wrapper"><table><thead><tr><th>District</th><th>State / UT</th><th>Temperature</th><th>Feels like</th><th>Humidity</th><th>Rainfall</th><th>Wind speed</th></tr></thead><tbody id="weatherTableBody"><tr><td colspan="7">Loading records…</td></tr></tbody></table></div>
+  </section>
+  <footer><span>Weather Intelligence Platform · FastAPI · PostgreSQL · JavaScript</span><span>Always check observation timestamps for freshness.</span></footer>
+</main>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script><script src="js/app.js"></script>
+</body></html>

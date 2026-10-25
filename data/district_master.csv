@@ -1,0 +1,636 @@
+﻿district_id,district_name,district_name_local,state_id,state_name,latitude,longitude
+IN14D001,Imphal West,Imphal West,IN14,Manipur,24.642,93.154
+IN11D001,Jalgaon,Jalgaon,IN11,Maharashtra,20.991,75.409
+IN11D002,Thane,Thane,IN11,Maharashtra,19.546,73.142
+IN20D001,Udham Singh Nagar,Udham Singh Nagar,IN20,Uttarakhand,28.957,79.632
+IN13D001,Darrang,Darrang,IN13,Assam,26.407,91.963
+IN22D001,Birbhum,Birbhum,IN22,West Bengal,23.844,87.634
+IN08D001,Sambalpur,Sambalpur,IN08,Odisha,21.388,84.193
+IN08D002,Cuttack,Cuttack,IN08,Odisha,20.545,85.813
+IN28D001,Vellore,Vellore,IN28,Tamil Nadu,12.855,78.906
+IN11D003,Jalna,Jalna,IN11,Maharashtra,19.65,75.935
+IN23D001,Madhepura,Madhepura,IN23,Bihar,25.975,86.875
+IN03D001,North Delhi,North Delhi,IN03,Delhi,28.745,77.201
+IN03D002,West Delhi,West Delhi,IN03,Delhi,28.65,77.064
+IN11D004,Satara,Satara,IN11,Maharashtra,17.741,74.118
+IN04D001,Una,Una,IN04,Himachal Pradesh,31.571,76.229
+IN29D001,Junagadh,Junagadh,IN29,Gujarat,21.248,70.457
+IN11D005,Akola,Akola,IN11,Maharashtra,20.709,76.982
+IN20D002,Rudraprayag,Rudraprayag,IN20,Uttarakhand,30.534,79.04
+IN13D002,Sonitpur,Sonitpur,IN13,Assam,26.793,92.78
+IN05D001,Panipat,Panipat,IN05,Haryana,29.343,76.905
+IN28D002,Coimbatore,Coimbatore,IN28,Tamil Nadu,10.978,76.976
+IN28D003,Cuddalore,Cuddalore,IN28,Tamil Nadu,11.523,79.567
+IN28D004,Dharmapuri,Dharmapuri,IN28,Tamil Nadu,12.15,78.054
+IN13D003,Dibrugarh,Dibrugarh,IN13,Assam,27.422,95.025
+IN05D002,Mahendragarh,Mahendragarh,IN05,Haryana,28.292,76.186
+IN23D002,Darbhanga,Darbhanga,IN23,Bihar,26.073,86.025
+IN26D001,Dindori,Dindori,IN26,Madhya Pradesh,23.001,80.994
+IN10D001,Udupi,Udupi,IN10,Karnataka,13.446,74.914
+IN29D002,Anand,Anand,IN29,Gujarat,22.437,72.825
+IN11D006,Buldana,Buldana,IN11,Maharashtra,20.577,76.372
+IN18D001,Jalor,Jalor,IN18,Rajasthan,25.062,72.198
+IN07D001,Malappuram,Malappuram,IN07,Kerala,11.095,76.12
+IN05D003,Kaithal,Kaithal,IN05,Haryana,29.749,76.399
+IN17D001,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,IN17,Punjab,31.1,76.039
+IN10D002,Kodagu,Kodagu,IN10,Karnataka,12.328,75.729
+IN28D005,Thiruvallur,Thiruvallur,IN28,Tamil Nadu,13.313,80.107
+IN28D006,Virudunagar,Virudunagar,IN28,Tamil Nadu,9.445,77.874
+IN26D002,Tikamgarh,Tikamgarh,IN26,Madhya Pradesh,24.891,79.016
+IN21D001,Purbi Singhbhum,Purbi Singhbhum,IN21,Jharkhand,22.527,86.459
+IN05D004,Karnal,Karnal,IN05,Haryana,29.702,76.917
+IN07D002,Kannur,Kannur,IN07,Kerala,11.978,75.532
+IN11D007,Mumbai Suburban,Mumbai Suburban,IN11,Maharashtra,19.126,72.897
+IN04D002,Mandi,Mandi,IN04,Himachal Pradesh,31.61,76.999
+IN11D008,Dhule,Dhule,IN11,Maharashtra,21.049,74.611
+IN23D003,Muzaffarpur,Muzaffarpur,IN23,Bihar,26.108,85.411
+IN14D002,Tamenglong,Tamenglong,IN14,Manipur,24.949,93.493
+IN35D001,Nalgonda,Nalgonda,IN35,Telangana,17.065,79.3
+IN04D003,Sirmaur,Sirmaur,IN04,Himachal Pradesh,30.653,77.37
+IN16D001,Ri Bhoi,Ri Bhoi,IN16,Meghalaya,25.833,91.964
+IN15D001,Dimapur,Dimapur,IN15,Nagaland,25.768,93.725
+IN18D002,Karauli,Karauli,IN18,Rajasthan,26.366,77.008
+IN11D009,Sangli,Sangli,IN11,Maharashtra,17.119,74.604
+IN26D003,Hoshangabad,Hoshangabad,IN26,Madhya Pradesh,22.568,78.04
+IN28D007,Kanniyakumari,Kanniyakumari,IN28,Tamil Nadu,8.315,77.341
+IN23D004,Vaishali,Vaishali,IN23,Bihar,25.744,85.374
+IN08D003,Bhadrak,Bhadrak,IN08,Odisha,20.935,86.738
+IN29D003,Rajkot,Rajkot,IN29,Gujarat,22.306,70.786
+IN29D004,Surendranagar,Surendranagar,IN29,Gujarat,22.78,71.531
+IN05D005,Jind,Jind,IN05,Haryana,29.446,76.329
+IN15D002,Mon,Mon,IN15,Nagaland,26.737,95.017
+IN17D002,Ludhiana,Ludhiana,IN17,Punjab,30.839,75.899
+IN28D008,Salem,Salem,IN28,Tamil Nadu,11.746,78.123
+IN31D001,East Siang,East Siang,IN31,Arunachal Pradesh,27.994,95.135
+IN20D003,Pithoragarh,Pithoragarh,IN20,Uttarakhand,30.175,80.404
+IN11D010,Kolhapur,Kolhapur,IN11,Maharashtra,16.669,74.084
+IN04D004,Kangra,Kangra,IN04,Himachal Pradesh,32.025,76.306
+IN29D005,Kachchh,Kachchh,IN29,Gujarat,23.516,69.619
+IN10D003,Bangalore Rural,Bangalore Rural,IN10,Karnataka,13.327,77.483
+IN06D001,Kurnool,Kurnool,IN06,Andhra Pradesh,15.5,78.006
+IN35D002,Medak,Medak,IN35,Telangana,17.842,78.215
+IN29D006,Porbandar,Porbandar,IN29,Gujarat,21.6,69.836
+IN11D011,Gondiya,Gondiya,IN11,Maharashtra,21.224,80.272
+IN19D001,Kanpur Nagar,Kanpur Nagar,IN19,Uttar Pradesh,26.298,80.325
+IN23D005,Patna,Patna,IN23,Bihar,25.522,84.992
+IN20D004,Nainital,Nainital,IN20,Uttarakhand,29.275,79.493
+IN19D002,Saharanpur,Saharanpur,IN19,Uttar Pradesh,29.897,77.486
+IN28D009,Karur,Karur,IN28,Tamil Nadu,10.931,78.035
+IN21D002,Pashchimi Singhbhum,Pashchimi Singhbhum,IN21,Jharkhand,22.466,85.477
+IN18D003,Bharatpur,Bharatpur,IN18,Rajasthan,27.149,77.309
+IN18D004,Bikaner,Bikaner,IN18,Rajasthan,28.109,73.277
+IN18D005,Bundi,Bundi,IN18,Rajasthan,25.503,75.814
+IN19D003,Lucknow,Lucknow,IN19,Uttar Pradesh,26.843,80.907
+IN28D010,Namakkal,Namakkal,IN28,Tamil Nadu,11.311,78.144
+IN28D011,Chennai,Chennai,IN28,Tamil Nadu,13.067,80.225
+IN05D006,Rohtak,Rohtak,IN05,Haryana,28.91,76.506
+IN33D001,West Tripura,West Tripura,IN33,Tripura,23.82,91.412
+IN22D002,Uttar Dinajpur,Uttar Dinajpur,IN22,West Bengal,25.642,88.212
+IN19D004,Kanpur Dehat,Kanpur Dehat,IN19,Uttar Pradesh,26.437,79.862
+IN08D004,Jagatsinghapur,Jagatsinghapur,IN08,Odisha,20.203,86.37
+IN08D005,Mayurbhanj,Mayurbhanj,IN08,Odisha,21.893,86.411
+IN19D005,Sultanpur,Sultanpur,IN19,Uttar Pradesh,26.274,82.02
+IN21D003,Dhanbad,Dhanbad,IN21,Jharkhand,23.823,86.501
+IN23D006,Kishanganj,Kishanganj,IN23,Bihar,26.274,87.854
+IN04D005,Kullu,Kullu,IN04,Himachal Pradesh,31.913,77.47
+IN04D006,Solan,Solan,IN04,Himachal Pradesh,31.076,76.856
+IN37D001,Udhampur,Udhampur,IN37,Jammu and Kashmir,32.881,75.321
+IN10D004,Kolar,Kolar,IN10,Karnataka,13.109,78.223
+IN10D005,Mandya,Mandya,IN10,Karnataka,12.627,76.748
+IN06D002,Visakhapatnam,Visakhapatnam,IN06,Andhra Pradesh,17.85,82.68
+IN20D005,Champawat,Champawat,IN20,Uttarakhand,29.312,80.075
+IN31D002,West Kameng,West Kameng,IN31,Arunachal Pradesh,27.329,92.403
+IN17D003,Moga,Moga,IN17,Punjab,30.781,75.173
+IN32D001,Kolasib,Kolasib,IN32,Mizoram,24.17,92.73
+IN06D003,East Godavari,East Godavari,IN06,Andhra Pradesh,17.25,82.021
+IN26D004,Rewa,Rewa,IN26,Madhya Pradesh,24.762,81.528
+IN10D006,Davanagere,Davanagere,IN10,Karnataka,14.345,75.907
+IN26D005,Betul,Betul,IN26,Madhya Pradesh,21.9,77.872
+IN25D001,Bilaspur,Bilaspur,IN25,Chhattisgarh,22.374,81.872
+IN26D006,Damoh,Damoh,IN26,Madhya Pradesh,23.868,79.534
+IN08D006,Rayagada,Rayagada,IN08,Odisha,19.366,83.475
+IN11D012,Yavatmal,Yavatmal,IN11,Maharashtra,20.274,78.098
+IN21D004,Bokaro,Bokaro,IN21,Jharkhand,23.725,85.982
+IN26D007,Katni,Katni,IN26,Madhya Pradesh,23.709,80.401
+IN25D002,Janjgir-champa,Janjgir-champa,IN25,Chhattisgarh,21.927,82.562
+IN19D006,Muzaffarnagar,Muzaffarnagar,IN19,Uttar Pradesh,29.431,77.478
+IN13D004,Bongaigaon,Bongaigaon,IN13,Assam,26.372,90.649
+IN13D005,Dhubri,Dhubri,IN13,Assam,26.009,89.995
+IN13D006,Goalpara,Goalpara,IN13,Assam,26.09,90.598
+IN11D013,Nanded,Nanded,IN11,Maharashtra,18.951,77.455
+IN13D007,Kokrajhar,Kokrajhar,IN13,Assam,26.535,90.106
+IN29D007,Banas Kantha,Banas Kantha,IN29,Gujarat,24.306,71.75
+IN18D006,Jodhpur,Jodhpur,IN18,Rajasthan,26.83,72.615
+IN18D007,Nagaur,Nagaur,IN18,Rajasthan,26.924,74.188
+IN18D008,Pali,Pali,IN18,Rajasthan,25.673,73.453
+IN06D004,Prakasam,Prakasam,IN06,Andhra Pradesh,15.568,79.342
+IN07D003,Kollam,Kollam,IN07,Kerala,8.961,76.914
+IN18D009,Sawai Madhopur,Sawai Madhopur,IN18,Rajasthan,26.161,76.385
+IN24D001,West,West,IN24,Sikkim,27.343,88.181
+IN31D003,Changlang,Changlang,IN31,Arunachal Pradesh,27.472,96.462
+IN29D008,Gandhinagar,Gandhinagar,IN29,Gujarat,23.252,72.658
+IN31D004,Tawang,Tawang,IN31,Arunachal Pradesh,27.637,91.761
+IN13D008,Nagaon,Nagaon,IN13,Assam,26.312,92.696
+IN07D004,Palakkad,Palakkad,IN07,Kerala,10.737,76.662
+IN07D005,Pathanamthitta,Pathanamthitta,IN07,Kerala,9.295,76.937
+IN01D001,Lakshadweep,Lakshadweep,IN01,Lakshadweep,11.277,74.043
+IN02D001,Chandigarh,Chandigarh,IN02,Chandigarh,30.728,76.778
+IN24D002,North,North,IN24,Sikkim,27.738,88.54
+IN03D003,North West Delhi,North West Delhi,IN03,Delhi,28.771,77.09
+IN06D005,Krishna,Krishna,IN06,Andhra Pradesh,16.647,80.746
+IN35D003,Rangareddy,Rangareddy,IN35,Telangana,17.317,77.926
+IN13D009,Kamrup,Kamrup,IN13,Assam,26.001,91.289
+IN29D009,Kheda,Kheda,IN29,Gujarat,22.924,73.097
+IN26D008,Indore,Indore,IN26,Madhya Pradesh,22.699,75.891
+IN26D009,Panna,Panna,IN26,Madhya Pradesh,24.392,80.159
+IN10D007,Shimoga,Shimoga,IN10,Karnataka,14.001,75.159
+IN15D003,Kohima,Kohima,IN15,Nagaland,25.796,94.126
+IN08D007,Ganjam,Ganjam,IN08,Odisha,19.589,84.723
+IN08D008,Koraput,Koraput,IN08,Odisha,18.808,82.721
+IN08D009,Puri,Puri,IN08,Odisha,19.958,85.833
+IN18D010,Rajsamand,Rajsamand,IN18,Rajasthan,25.115,73.817
+IN28D012,Dindigul,Dindigul,IN28,Tamil Nadu,10.401,77.828
+IN28D013,Thanjavur,Thanjavur,IN28,Tamil Nadu,10.779,79.17
+IN28D014,Tirunelveli,Tirunelveli,IN28,Tamil Nadu,8.749,77.514
+IN20D006,Uttarkashi,Uttarkashi,IN20,Uttarakhand,30.918,78.339
+IN22D003,Jalpaiguri,Jalpaiguri,IN22,West Bengal,26.679,88.775
+IN05D007,Panchkula,Panchkula,IN05,Haryana,30.682,76.963
+IN11D014,Nashik,Nashik,IN11,Maharashtra,20.253,74.003
+IN35D004,Adilabad,Adilabad,IN35,Telangana,19.359,78.679
+IN29D010,Bharuch,Bharuch,IN29,Gujarat,21.842,72.843
+IN26D010,Chhatarpur,Chhatarpur,IN26,Madhya Pradesh,24.778,79.616
+IN26D011,Ujjain,Ujjain,IN26,Madhya Pradesh,23.341,75.677
+IN19D007,Jaunpur,Jaunpur,IN19,Uttar Pradesh,25.711,82.568
+IN07D006,Wayanad,Wayanad,IN07,Kerala,11.686,76.093
+IN10D008,Chikmagalur,Chikmagalur,IN10,Karnataka,13.462,75.692
+IN23D007,Nalanda,Nalanda,IN23,Bihar,25.216,85.43
+IN17D004,Faridkot,Faridkot,IN17,Punjab,30.649,74.783
+IN23D008,Nawada,Nawada,IN23,Bihar,24.807,85.535
+IN34D001,Daman,Daman,IN34,Daman and Diu,20.4,72.842
+IN10D009,Bellary,Bellary,IN10,Karnataka,14.977,76.408
+IN10D010,Chitradurga,Chitradurga,IN10,Karnataka,14.106,76.475
+IN10D011,Bagalkot,Bagalkot,IN10,Karnataka,16.171,75.636
+IN06D006,Guntur,Guntur,IN06,Andhra Pradesh,16.337,80.246
+IN26D012,Umaria,Umaria,IN26,Madhya Pradesh,23.493,81.012
+IN10D012,Dharwad,Dharwad,IN10,Karnataka,15.384,75.162
+IN10D013,Hassan,Hassan,IN10,Karnataka,13.005,76.117
+IN17D005,Gurdaspur,Gurdaspur,IN17,Punjab,31.905,75.335
+IN17D006,Jalandhar,Jalandhar,IN17,Punjab,31.125,75.56
+IN05D008,Faridabad,Faridabad,IN05,Haryana,28.353,77.355
+IN10D014,Uttara Kannada,Uttara Kannada,IN10,Karnataka,14.792,74.7
+IN20D007,Dehradun,Dehradun,IN20,Uttarakhand,30.742,77.887
+IN20D008,Hardwar,Hardwar,IN20,Uttarakhand,29.889,77.97
+IN11D015,Solapur,Solapur,IN11,Maharashtra,17.787,75.469
+IN29D011,Patan,Patan,IN29,Gujarat,23.738,71.583
+IN29D012,Narmada,Narmada,IN29,Gujarat,21.753,73.653
+IN06D007,Anantapur,Anantapur,IN06,Andhra Pradesh,14.761,77.508
+IN06D008,Chittoor,Chittoor,IN06,Andhra Pradesh,13.482,78.947
+IN22D004,Kolkata,Kolkata,IN22,West Bengal,22.518,88.363
+IN19D008,Mahoba,Mahoba,IN19,Uttar Pradesh,25.32,79.694
+IN11D016,Bhandara,Bhandara,IN11,Maharashtra,21.087,79.773
+IN10D015,Tumkur,Tumkur,IN10,Karnataka,13.429,76.895
+IN28D015,Theni,Theni,IN28,Tamil Nadu,9.887,77.434
+IN28D016,Tiruchirappalli,Tiruchirappalli,IN28,Tamil Nadu,11.066,78.529
+IN19D009,Gautam Buddha Nagar,Gautam Buddha Nagar,IN19,Uttar Pradesh,28.508,77.533
+IN30D001,North Goa,North Goa,IN30,Goa,15.535,73.93
+IN23D009,Gaya,Gaya,IN23,Bihar,24.729,84.99
+IN19D010,Meerut,Meerut,IN19,Uttar Pradesh,29.021,77.787
+IN35D005,Warangal,Warangal,IN35,Telangana,17.979,79.889
+IN23D010,Pashchim Champaran,Pashchim Champaran,IN23,Bihar,27.111,84.348
+IN13D010,Tinsukia,Tinsukia,IN13,Assam,27.546,95.587
+IN29D013,Jamnagar,Jamnagar,IN29,Gujarat,22.169,69.974
+IN05D009,Sirsa,Sirsa,IN05,Haryana,29.634,74.909
+IN07D007,Thiruvananthapuram,Thiruvananthapuram,IN07,Kerala,8.59,77.045
+IN07D008,Thrissur,Thrissur,IN07,Kerala,10.449,76.269
+IN26D013,Balaghat,Balaghat,IN26,Madhya Pradesh,21.915,80.372
+IN26D014,Bhopal,Bhopal,IN26,Madhya Pradesh,23.271,77.396
+IN26D015,Raisen,Raisen,IN26,Madhya Pradesh,23.235,78.289
+IN26D016,Ratlam,Ratlam,IN26,Madhya Pradesh,23.352,74.952
+IN10D016,Raichur,Raichur,IN10,Karnataka,16.054,76.77
+IN17D007,Amritsar,Amritsar,IN17,Punjab,31.759,74.783
+IN18D011,Bhilwara,Bhilwara,IN18,Rajasthan,25.548,74.668
+IN17D008,Patiala,Patiala,IN17,Punjab,30.29,76.327
+IN18D012,Kota,Kota,IN18,Rajasthan,25.015,76.002
+IN17D009,Rupnagar,Rupnagar,IN17,Punjab,31.108,76.52
+IN18D013,Dausa,Dausa,IN18,Rajasthan,26.902,76.443
+IN18D014,Jaisalmer,Jaisalmer,IN18,Rajasthan,27.055,70.931
+IN18D015,Jhunjhunun,Jhunjhunun,IN18,Rajasthan,28.044,75.552
+IN18D016,Ganganagar,Ganganagar,IN18,Rajasthan,29.345,73.507
+IN19D011,Agra,Agra,IN19,Uttar Pradesh,27.083,78.01
+IN28D017,Pudukkottai,Pudukkottai,IN28,Tamil Nadu,10.423,78.887
+IN19D012,Bareilly,Bareilly,IN19,Uttar Pradesh,28.44,79.422
+IN19D013,Budaun,Budaun,IN19,Uttar Pradesh,28.167,78.886
+IN19D014,Rampur,Rampur,IN19,Uttar Pradesh,28.807,79.149
+IN19D015,Rae Bareli,Rae Bareli,IN19,Uttar Pradesh,26.208,81.278
+IN31D005,West Siang,West Siang,IN31,Arunachal Pradesh,28.218,94.643
+IN06D009,Vizianagaram,Vizianagaram,IN06,Andhra Pradesh,18.549,83.282
+IN11D017,Nagpur,Nagpur,IN11,Maharashtra,21.156,79.098
+IN25D003,Surguja,Surguja,IN25,Chhattisgarh,23.448,83.204
+IN17D010,Firozpur,Firozpur,IN17,Punjab,30.615,74.305
+IN17D011,Hoshiarpur,Hoshiarpur,IN17,Punjab,31.652,75.829
+IN26D017,Dhar,Dhar,IN26,Madhya Pradesh,22.491,75.156
+IN26D018,Gwalior,Gwalior,IN26,Madhya Pradesh,26.03,78.154
+IN21D005,Ranchi,Ranchi,IN21,Jharkhand,23.374,85.363
+IN29D014,Bhavnagar,Bhavnagar,IN29,Gujarat,21.617,71.947
+IN28D018,Sivaganga,Sivaganga,IN28,Tamil Nadu,9.934,78.642
+IN28D019,Tiruvannamalai,Tiruvannamalai,IN28,Tamil Nadu,12.378,78.989
+IN33D002,South Tripura,South Tripura,IN33,Tripura,23.402,91.615
+IN05D010,Hisar,Hisar,IN05,Haryana,29.221,75.808
+IN05D011,Yamunanagar,Yamunanagar,IN05,Haryana,30.23,77.309
+IN19D016,Etawah,Etawah,IN19,Uttar Pradesh,26.805,79.132
+IN28D020,Ariyalur,Ariyalur,IN28,Tamil Nadu,11.17,79.264
+IN03D004,Central,Central,IN03,Delhi,28.649,77.203
+IN04D007,Shimla,Shimla,IN04,Himachal Pradesh,31.145,77.587
+IN28D021,Erode,Erode,IN28,Tamil Nadu,11.545,77.406
+IN28D022,Kancheepuram,Kancheepuram,IN28,Tamil Nadu,12.718,79.982
+IN11D018,Mumbai,Mumbai,IN11,Maharashtra,18.957,72.856
+IN11D019,Chandrapur,Chandrapur,IN11,Maharashtra,20.168,79.444
+IN35D006,Karimnagar,Karimnagar,IN35,Telangana,18.471,79.227
+IN19D017,Jyotiba Phule Nagar,Jyotiba Phule Nagar,IN19,Uttar Pradesh,28.876,78.284
+IN10D017,Dakshina Kannada,Dakshina Kannada,IN10,Karnataka,12.867,75.298
+IN05D012,Sonipat,Sonipat,IN05,Haryana,29.019,76.968
+IN35D007,Khammam,Khammam,IN35,Telangana,17.586,80.672
+IN22D005,Puruliya,Puruliya,IN22,West Bengal,23.265,86.499
+IN05D013,Kurukshetra,Kurukshetra,IN05,Haryana,30.072,76.81
+IN28D023,Thoothukkudi,Thoothukkudi,IN28,Tamil Nadu,8.99,77.98
+IN11D020,Pune,Pune,IN11,Maharashtra,18.585,73.993
+IN07D009,Alappuzha,Alappuzha,IN07,Kerala,9.452,76.415
+IN19D018,Ayodhya,Ayodhya,IN19,Uttar Pradesh,26.64,82.078
+IN03D005,East Delhi,East Delhi,IN03,Delhi,28.625,77.294
+IN16D002,West Garo Hills,West Garo Hills,IN16,Meghalaya,25.65,90.213
+IN28D024,Madurai,Madurai,IN28,Tamil Nadu,9.855,77.888
+IN28D025,Nagappattinam,Nagappattinam,IN28,Tamil Nadu,11.144,79.725
+IN35D008,Nizamabad,Nizamabad,IN35,Telangana,18.551,78.133
+IN26D019,Shahdol,Shahdol,IN26,Madhya Pradesh,23.725,81.439
+IN03D006,South Delhi,South Delhi,IN03,Delhi,28.53,77.247
+IN27D001,Puducherry,Puducherry,IN27,Puducherry,11.924,79.796
+IN19D019,Varanasi,Varanasi,IN19,Uttar Pradesh,25.388,82.891
+IN08D010,Bargarh,Bargarh,IN08,Odisha,21.399,83.629
+IN11D021,Ratnagiri,Ratnagiri,IN11,Maharashtra,17.272,73.463
+IN20D009,Almora,Almora,IN20,Uttarakhand,29.7,79.494
+IN20D010,Bageshwar,Bageshwar,IN20,Uttarakhand,29.998,79.945
+IN20D011,Chamoli,Chamoli,IN20,Uttarakhand,30.513,79.62
+IN37D002,Kathua,Kathua,IN37,Jammu and Kashmir,32.56,75.6
+IN29D015,Panch Mahals,Panch Mahals,IN29,Gujarat,22.876,73.637
+IN08D011,Khordha,Khordha,IN08,Odisha,20.158,85.52
+IN28D026,Viluppuram,Viluppuram,IN28,Tamil Nadu,11.847,79.229
+IN19D020,Jhansi,Jhansi,IN19,Uttar Pradesh,25.587,79.149
+IN07D010,Kasaragod,Kasaragod,IN07,Kerala,12.435,75.177
+IN05D014,Rewari,Rewari,IN05,Haryana,28.258,76.539
+IN11D022,Ahmadnagar,Ahmadnagar,IN11,Maharashtra,19.3,74.662
+IN19D021,Kushinagar,Kushinagar,IN19,Uttar Pradesh,26.906,83.891
+IN29D016,Navsari,Navsari,IN29,Gujarat,20.753,73.15
+IN19D022,Aligarh,Aligarh,IN19,Uttar Pradesh,27.93,78.07
+IN29D017,Mahesana,Mahesana,IN29,Gujarat,23.702,72.507
+IN05D015,Gurugram,Gurugram,IN05,Haryana,28.416,76.936
+IN07D011,Kozhikode,Kozhikode,IN07,Kerala,11.48,75.834
+IN07D012,Idukki,Idukki,IN07,Kerala,9.898,77.001
+IN19D023,Chitrakoot,Chitrakoot,IN19,Uttar Pradesh,25.2,81.096
+IN10D018,Koppal,Koppal,IN10,Karnataka,15.55,76.23
+IN18D017,Sirohi,Sirohi,IN18,Rajasthan,24.731,72.782
+IN28D027,Ramanathapuram,Ramanathapuram,IN28,Tamil Nadu,9.35,78.586
+IN04D008,Kinnaur,Kinnaur,IN04,Himachal Pradesh,31.623,78.415
+IN10D019,Mysore,Mysore,IN10,Karnataka,12.183,76.401
+IN18D018,Jaipur,Jaipur,IN18,Rajasthan,26.963,75.792
+IN22D006,Bankura,Bankura,IN22,West Bengal,23.21,87.126
+IN26D020,Datia,Datia,IN26,Madhya Pradesh,25.739,78.512
+IN08D012,Baleshwar,Baleshwar,IN08,Odisha,21.412,86.776
+IN17D012,Kapurthala,Kapurthala,IN17,Punjab,31.363,75.326
+IN31D006,Papum Pare,Papum Pare,IN31,Arunachal Pradesh,27.158,93.521
+IN10D020,Gadag,Gadag,IN10,Karnataka,15.253,75.672
+IN22D007,Murshidabad,Murshidabad,IN22,West Bengal,24.125,88.262
+IN26D021,Satna,Satna,IN26,Madhya Pradesh,24.529,80.826
+IN26D022,Guna,Guna,IN26,Madhya Pradesh,24.55,77.271
+IN17D013,Fatehgarh Sahib,Fatehgarh Sahib,IN17,Punjab,30.604,76.405
+IN19D024,Firozabad,Firozabad,IN19,Uttar Pradesh,27.175,78.545
+IN26D023,Seoni,Seoni,IN26,Madhya Pradesh,22.312,79.698
+IN17D014,Bathinda,Bathinda,IN17,Punjab,30.16,75.035
+IN13D011,Jorhat,Jorhat,IN13,Assam,26.779,94.263
+IN13D012,Golaghat,Golaghat,IN13,Assam,26.576,93.914
+IN35D009,Mahbubnagar,Mahbubnagar,IN35,Telangana,16.479,78.162
+IN13D013,Dhemaji,Dhemaji,IN13,Assam,27.445,94.55
+IN07D013,Ernakulam,Ernakulam,IN07,Kerala,10.053,76.478
+IN18D019,Ajmer,Ajmer,IN18,Rajasthan,26.25,74.788
+IN18D020,Alwar,Alwar,IN18,Rajasthan,27.6,76.569
+IN25D004,Bastar,Bastar,IN25,Chhattisgarh,19.354,81.77
+IN18D021,Barmer,Barmer,IN18,Rajasthan,25.73,71.473
+IN18D022,Sikar,Sikar,IN18,Rajasthan,27.649,75.041
+IN19D025,Ghaziabad,Ghaziabad,IN19,Uttar Pradesh,28.757,77.575
+IN19D026,Gorakhpur,Gorakhpur,IN19,Uttar Pradesh,26.68,83.366
+IN20D012,Tehri Garhwal,Tehri Garhwal,IN20,Uttarakhand,30.352,78.545
+IN22D008,Barddhaman,Barddhaman,IN22,West Bengal,23.283,87.916
+IN22D009,Darjiling,Darjiling,IN22,West Bengal,26.931,88.32
+IN24D003,East,East,IN24,Sikkim,27.287,88.678
+IN04D009,Chamba,Chamba,IN04,Himachal Pradesh,32.642,76.183
+IN04D010,Lahul & Spiti,Lahul & Spiti,IN04,Himachal Pradesh,32.55,77.615
+IN14D003,Churachandpur,Churachandpur,IN14,Manipur,24.315,93.418
+IN14D004,Senapati,Senapati,IN14,Manipur,25.346,94.115
+IN10D021,Bangalore,Bangalore,IN10,Karnataka,12.986,77.591
+IN10D022,Ramanagara,Ramanagara,IN10,Karnataka,12.669,77.309
+IN18D023,Chittaurgarh,Chittaurgarh,IN18,Rajasthan,24.791,74.498
+IN18D024,Churu,Churu,IN18,Rajasthan,28.448,74.637
+IN13D014,Marigaon,Marigaon,IN13,Assam,26.277,92.287
+IN25D005,Korba,Korba,IN25,Chhattisgarh,22.538,82.62
+IN03D007,New Delhi,New Delhi,IN03,Delhi,28.614,77.213
+IN11D023,Osmanabad,Osmanabad,IN11,Maharashtra,18.243,76.113
+IN11D024,Wardha,Wardha,IN11,Maharashtra,20.772,78.579
+IN10D023,Chamrajnagar,Chamrajnagar,IN10,Karnataka,11.96,77.11
+IN31D007,Upper Siang,Upper Siang,IN31,Arunachal Pradesh,28.856,94.978
+IN18D025,Tonk,Tonk,IN18,Rajasthan,26.135,75.66
+IN37D003,Badgam,Badgam,IN37,Jammu and Kashmir,33.899,74.659
+IN36D001,Leh,Leh,IN36,Ladakh,34.046,77.989
+IN36D002,Kargil,Kargil,IN36,Ladakh,34.271,76.312
+IN37D004,Punch,Punch,IN37,Jammu and Kashmir,33.728,74.194
+IN37D005,Rajouri,Rajouri,IN37,Jammu and Kashmir,33.292,74.35
+IN37D006,Baramula,Baramula,IN37,Jammu and Kashmir,34.139,74.388
+IN37D007,Bandipore,Bandipore,IN37,Jammu and Kashmir,34.507,74.771
+IN37D008,Srinagar,Srinagar,IN37,Jammu and Kashmir,34.167,74.897
+IN37D009,Ganderbal,Ganderbal,IN37,Jammu and Kashmir,34.269,75.23
+IN37D010,Pulwama,Pulwama,IN37,Jammu and Kashmir,33.932,75.037
+IN37D011,Shupiyan,Shupiyan,IN37,Jammu and Kashmir,33.702,74.819
+IN37D012,Anantnag,Anantnag,IN37,Jammu and Kashmir,33.766,75.308
+IN37D013,Kulgam,Kulgam,IN37,Jammu and Kashmir,33.585,74.963
+IN37D014,Doda,Doda,IN37,Jammu and Kashmir,33.082,75.65
+IN37D015,Ramban,Ramban,IN37,Jammu and Kashmir,33.325,75.183
+IN37D016,Kishtwar,Kishtwar,IN37,Jammu and Kashmir,33.463,75.949
+IN37D017,Reasi,Reasi,IN37,Jammu and Kashmir,33.21,74.828
+IN37D018,Jammu,Jammu,IN37,Jammu and Kashmir,32.728,74.831
+IN37D019,Samba,Samba,IN37,Jammu and Kashmir,32.597,75.116
+IN04D011,Hamirpur,Hamirpur,IN04,Himachal Pradesh,31.673,76.523
+IN17D015,Muktsar,Muktsar,IN17,Punjab,30.294,74.537
+IN17D016,Mansa,Mansa,IN17,Punjab,29.971,75.464
+IN17D017,Tarn Taran,Tarn Taran,IN17,Punjab,31.336,74.835
+IN17D018,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,IN17,Punjab,30.806,76.645
+IN17D019,Sangrur,Sangrur,IN17,Punjab,30.155,75.874
+IN17D020,Barnala,Barnala,IN17,Punjab,30.389,75.5
+IN20D013,Garhwal,Garhwal,IN20,Uttarakhand,29.831,78.778
+IN05D016,Ambala,Ambala,IN05,Haryana,30.331,77.037
+IN05D017,Fatehabad,Fatehabad,IN05,Haryana,29.566,75.554
+IN05D018,Bhiwani,Bhiwani,IN05,Haryana,28.726,76.027
+IN05D019,Jhajjar,Jhajjar,IN05,Haryana,28.615,76.654
+IN05D020,Mewat,Mewat,IN05,Haryana,27.963,77.006
+IN05D021,Palwal,Palwal,IN05,Haryana,28.062,77.295
+IN03D008,North East Delhi,North East Delhi,IN03,Delhi,28.705,77.27
+IN03D009,South West Delhi,South West Delhi,IN03,Delhi,28.581,76.978
+IN18D026,Hanumangarh,Hanumangarh,IN18,Rajasthan,29.125,74.491
+IN18D027,Dhaulpur,Dhaulpur,IN18,Rajasthan,26.684,77.696
+IN18D028,Dungarpur,Dungarpur,IN18,Rajasthan,23.716,73.855
+IN18D029,Banswara,Banswara,IN18,Rajasthan,23.48,74.324
+IN18D030,Baran,Baran,IN18,Rajasthan,25.085,76.647
+IN18D031,Jhalawar,Jhalawar,IN18,Rajasthan,24.485,76.332
+IN18D032,Udaipur,Udaipur,IN18,Rajasthan,24.363,73.718
+IN18D033,Pratapgarh,Pratapgarh,IN18,Rajasthan,24.034,74.71
+IN19D027,Bijnor,Bijnor,IN19,Uttar Pradesh,29.357,78.406
+IN19D028,Moradabad,Moradabad,IN19,Uttar Pradesh,28.585,78.647
+IN19D029,Baghpat,Baghpat,IN19,Uttar Pradesh,29.09,77.309
+IN19D030,Bulandshahr,Bulandshahr,IN19,Uttar Pradesh,28.393,77.978
+IN19D031,Mahamaya Nagar,Mahamaya Nagar,IN19,Uttar Pradesh,27.614,78.13
+IN19D032,Mathura,Mathura,IN19,Uttar Pradesh,27.596,77.601
+IN19D033,Mainpuri,Mainpuri,IN19,Uttar Pradesh,27.193,79.03
+IN19D034,Pilibhit,Pilibhit,IN19,Uttar Pradesh,28.525,79.933
+IN19D035,Shahjahanpur,Shahjahanpur,IN19,Uttar Pradesh,27.919,79.809
+IN19D036,Kheri,Kheri,IN19,Uttar Pradesh,28.171,80.667
+IN19D037,Sitapur,Sitapur,IN19,Uttar Pradesh,27.516,80.813
+IN19D038,Hardoi,Hardoi,IN19,Uttar Pradesh,27.328,80.123
+IN19D039,Unnao,Unnao,IN19,Uttar Pradesh,26.636,80.51
+IN19D040,Farrukhabad,Farrukhabad,IN19,Uttar Pradesh,27.403,79.487
+IN19D041,Kannauj,Kannauj,IN19,Uttar Pradesh,27.025,79.695
+IN19D042,Auraiya,Auraiya,IN19,Uttar Pradesh,26.66,79.483
+IN19D043,Jalaun,Jalaun,IN19,Uttar Pradesh,26.09,79.336
+IN19D044,Lalitpur,Lalitpur,IN19,Uttar Pradesh,24.65,78.521
+IN19D045,Banda,Banda,IN19,Uttar Pradesh,25.465,80.555
+IN19D046,Fatehpur,Fatehpur,IN19,Uttar Pradesh,25.876,80.769
+IN19D047,Kaushambi,Kaushambi,IN19,Uttar Pradesh,25.472,81.449
+IN19D048,Allahabad,Allahabad,IN19,Uttar Pradesh,25.342,82.021
+IN19D049,Bara Banki,Bara Banki,IN19,Uttar Pradesh,26.948,81.327
+IN19D050,Ambedkar Nagar,Ambedkar Nagar,IN19,Uttar Pradesh,26.426,82.624
+IN19D051,Bahraich,Bahraich,IN19,Uttar Pradesh,27.708,81.482
+IN19D052,Shrawasti,Shrawasti,IN19,Uttar Pradesh,27.676,81.884
+IN19D053,Balrampur,Balrampur,IN19,Uttar Pradesh,27.504,82.352
+IN19D054,Gonda,Gonda,IN19,Uttar Pradesh,27.08,81.988
+IN19D055,Siddharth Nagar,Siddharth Nagar,IN19,Uttar Pradesh,27.261,82.908
+IN19D056,Basti,Basti,IN19,Uttar Pradesh,26.794,82.637
+IN19D057,Sant Kabir Nagar,Sant Kabir Nagar,IN19,Uttar Pradesh,26.866,83.016
+IN19D058,Maharajganj,Maharajganj,IN19,Uttar Pradesh,27.236,83.567
+IN19D059,Deoria,Deoria,IN19,Uttar Pradesh,26.458,83.753
+IN19D060,Azamgarh,Azamgarh,IN19,Uttar Pradesh,26.003,83.077
+IN19D061,Mau,Mau,IN19,Uttar Pradesh,26.013,83.533
+IN19D062,Ballia,Ballia,IN19,Uttar Pradesh,25.904,84.033
+IN19D063,Ghazipur,Ghazipur,IN19,Uttar Pradesh,25.623,83.601
+IN19D064,Chandauli,Chandauli,IN19,Uttar Pradesh,24.943,83.212
+IN19D065,Sant Ravi Das Nagar(bhadohi),Sant Ravi Das Nagar(bhadohi),IN19,Uttar Pradesh,25.349,82.468
+IN19D066,Mirzapur,Mirzapur,IN19,Uttar Pradesh,25.021,82.627
+IN19D067,Sonbhadra,Sonbhadra,IN19,Uttar Pradesh,24.385,83.061
+IN19D068,Etah,Etah,IN19,Uttar Pradesh,27.509,78.767
+IN19D069,Kansiram Nagar,Kansiram Nagar,IN19,Uttar Pradesh,27.759,78.82
+IN23D011,Purba Champaran,Purba Champaran,IN23,Bihar,26.608,84.952
+IN23D012,Sheohar,Sheohar,IN23,Bihar,26.533,85.299
+IN23D013,Sitamarhi,Sitamarhi,IN23,Bihar,26.58,85.564
+IN23D014,Madhubani,Madhubani,IN23,Bihar,26.411,86.218
+IN23D015,Supaul,Supaul,IN23,Bihar,26.276,86.824
+IN23D016,Araria,Araria,IN23,Bihar,26.165,87.348
+IN23D017,Purnia,Purnia,IN23,Bihar,25.829,87.48
+IN23D018,Katihar,Katihar,IN23,Bihar,25.522,87.639
+IN23D019,Saharsa,Saharsa,IN23,Bihar,25.789,86.585
+IN23D020,Gopalganj,Gopalganj,IN23,Bihar,26.456,84.286
+IN23D021,Siwan,Siwan,IN23,Bihar,26.15,84.299
+IN23D022,Saran (chhapra),Saran (chhapra),IN23,Bihar,25.896,84.798
+IN23D023,Samastipur,Samastipur,IN23,Bihar,25.829,85.8
+IN23D024,Begusarai,Begusarai,IN23,Bihar,25.503,86.137
+IN23D025,Khagaria,Khagaria,IN23,Bihar,25.511,86.695
+IN23D026,Bhagalpur,Bhagalpur,IN23,Bihar,25.264,87.116
+IN23D027,Banka,Banka,IN23,Bihar,24.853,86.847
+IN23D028,Munger,Munger,IN23,Bihar,25.218,86.513
+IN23D029,Lakhisarai,Lakhisarai,IN23,Bihar,25.156,86.127
+IN23D030,Sheikhpura,Sheikhpura,IN23,Bihar,25.128,85.864
+IN23D031,Bhojpur,Bhojpur,IN23,Bihar,25.466,84.549
+IN23D032,Buxar,Buxar,IN23,Bihar,25.516,84.154
+IN23D033,Kaimur (bhabua),Kaimur (bhabua),IN23,Bihar,25.026,83.578
+IN23D034,Rohtas,Rohtas,IN23,Bihar,25.022,84.035
+IN23D035,Aurangabad,Aurangabad,IN23,Bihar,24.794,84.419
+IN23D036,Jamui,Jamui,IN23,Bihar,24.796,86.301
+IN23D037,Jehanabad,Jehanabad,IN23,Bihar,25.151,85.03
+IN23D038,Arwal,Arwal,IN23,Bihar,25.143,84.784
+IN24D004,South,South,IN24,Sikkim,27.292,88.379
+IN31D008,East Kameng,East Kameng,IN31,Arunachal Pradesh,27.456,93.052
+IN31D009,Upper Subansiri,Upper Subansiri,IN31,Arunachal Pradesh,28.198,94.124
+IN31D010,Tirap,Tirap,IN31,Arunachal Pradesh,26.952,95.437
+IN31D011,Lower Subansiri,Lower Subansiri,IN31,Arunachal Pradesh,27.622,93.968
+IN31D012,Kurung Kumey,Kurung Kumey,IN31,Arunachal Pradesh,27.961,93.514
+IN31D013,Dibang Valley,Dibang Valley,IN31,Arunachal Pradesh,29.012,95.835
+IN31D014,Lower Dibang Valley,Lower Dibang Valley,IN31,Arunachal Pradesh,28.236,95.796
+IN31D015,Lohit,Lohit,IN31,Arunachal Pradesh,27.836,96.202
+IN31D016,Anjaw,Anjaw,IN31,Arunachal Pradesh,28.06,96.829
+IN15D004,Mokokchung,Mokokchung,IN15,Nagaland,26.459,94.535
+IN15D005,Zunheboto,Zunheboto,IN15,Nagaland,26.051,94.525
+IN15D006,Wokha,Wokha,IN15,Nagaland,26.173,94.189
+IN15D007,Phek,Phek,IN15,Nagaland,25.72,94.401
+IN15D008,Tuensang,Tuensang,IN15,Nagaland,26.189,94.931
+IN15D009,Longleng,Longleng,IN15,Nagaland,26.543,94.809
+IN15D010,Kiphire,Kiphire,IN15,Nagaland,25.898,94.73
+IN15D011,Peren,Peren,IN15,Nagaland,25.498,93.619
+IN14D005,Bishnupur,Bishnupur,IN14,Manipur,24.537,93.801
+IN14D006,Thoubal,Thoubal,IN14,Manipur,24.59,93.987
+IN14D007,Imphal East,Imphal East,IN14,Manipur,24.806,93.911
+IN14D008,Ukhrul,Ukhrul,IN14,Manipur,24.995,94.429
+IN14D009,Chandel,Chandel,IN14,Manipur,24.219,94.098
+IN32D002,Mamit,Mamit,IN32,Mizoram,23.747,92.463
+IN32D003,Aizawl,Aizawl,IN32,Mizoram,23.823,92.86
+IN32D004,Champhai,Champhai,IN32,Mizoram,23.559,93.236
+IN32D005,Serchhip,Serchhip,IN32,Mizoram,23.293,92.934
+IN32D006,Lunglei,Lunglei,IN32,Mizoram,22.954,92.729
+IN32D007,Lawangtlai,Lawangtlai,IN32,Mizoram,22.386,92.713
+IN32D008,Saiha,Saiha,IN32,Mizoram,22.34,93.073
+IN33D003,Dhalai,Dhalai,IN33,Tripura,23.885,91.94
+IN33D004,North Tripura,North Tripura,IN33,Tripura,24.123,92.194
+IN16D003,East Garo Hills,East Garo Hills,IN16,Meghalaya,25.71,90.634
+IN16D004,South Garo Hills,South Garo Hills,IN16,Meghalaya,25.297,90.585
+IN16D005,West Khasi Hills,West Khasi Hills,IN16,Meghalaya,25.469,91.251
+IN16D006,East Khasi Hills,East Khasi Hills,IN16,Meghalaya,25.361,91.793
+IN16D007,Jaintia Hills,Jaintia Hills,IN16,Meghalaya,25.321,92.375
+IN13D015,Barpeta,Barpeta,IN13,Assam,26.343,91.043
+IN13D016,Lakhimpur,Lakhimpur,IN13,Assam,27.202,94.126
+IN13D017,Sivasagar,Sivasagar,IN13,Assam,26.973,94.691
+IN13D018,Karbi Anglong,Karbi Anglong,IN13,Assam,26.185,93.462
+IN13D019,Dima Hasao,Dima Hasao,IN13,Assam,25.358,93.042
+IN13D020,Cachar,Cachar,IN13,Assam,24.812,92.892
+IN13D021,Karimganj,Karimganj,IN13,Assam,24.583,92.374
+IN13D022,Hailakandi,Hailakandi,IN13,Assam,24.479,92.622
+IN13D023,Chirang,Chirang,IN13,Assam,26.655,90.586
+IN13D024,Kamrup Metropolitan,Kamrup Metropolitan,IN13,Assam,26.123,91.968
+IN13D025,Nalbari,Nalbari,IN13,Assam,26.398,91.384
+IN13D026,Baksa,Baksa,IN13,Assam,26.666,91.386
+IN13D027,Udalguri,Udalguri,IN13,Assam,26.713,91.974
+IN22D010,Koch Bihar,Koch Bihar,IN22,West Bengal,26.25,89.406
+IN22D011,Dakshin Dinajpur,Dakshin Dinajpur,IN22,West Bengal,25.35,88.595
+IN22D012,Maldah,Maldah,IN22,West Bengal,25.087,88.068
+IN22D013,Nadia,Nadia,IN22,West Bengal,23.406,88.548
+IN22D014,North 24 Parganas,North 24 Parganas,IN22,West Bengal,22.74,88.751
+IN22D015,Hugli,Hugli,IN22,West Bengal,22.873,88.171
+IN22D016,Haora,Haora,IN22,West Bengal,22.54,88.02
+IN22D017,South 24 Parganas,South 24 Parganas,IN22,West Bengal,22.252,88.386
+IN22D018,Pashchim Medinipur,Pashchim Medinipur,IN22,West Bengal,22.388,87.277
+IN22D019,Purba Medinipur,Purba Medinipur,IN22,West Bengal,21.954,87.803
+IN21D006,Garhwa,Garhwa,IN21,Jharkhand,24.154,83.674
+IN21D007,Chatra,Chatra,IN21,Jharkhand,24.162,84.925
+IN21D008,Kodarma,Kodarma,IN21,Jharkhand,24.456,85.671
+IN21D009,Giridih,Giridih,IN21,Jharkhand,24.289,86.117
+IN21D010,Deoghar,Deoghar,IN21,Jharkhand,24.34,86.735
+IN21D011,Godda,Godda,IN21,Jharkhand,24.846,87.308
+IN21D012,Sahibganj,Sahibganj,IN21,Jharkhand,24.972,87.674
+IN21D013,Pakur,Pakur,IN21,Jharkhand,24.584,87.66
+IN21D014,Lohardaga,Lohardaga,IN21,Jharkhand,23.47,84.67
+IN21D015,Palamu,Palamu,IN21,Jharkhand,24.215,84.199
+IN21D016,Latehar,Latehar,IN21,Jharkhand,23.786,84.402
+IN21D017,Hazaribagh,Hazaribagh,IN21,Jharkhand,23.999,85.42
+IN21D018,Ramgarh,Ramgarh,IN21,Jharkhand,23.657,85.537
+IN21D019,Dumka,Dumka,IN21,Jharkhand,24.29,87.3
+IN21D020,Jamtara,Jamtara,IN21,Jharkhand,23.969,86.883
+IN21D021,Khunti,Khunti,IN21,Jharkhand,23.036,85.218
+IN21D022,Gumla,Gumla,IN21,Jharkhand,23.045,84.624
+IN21D023,Simdega,Simdega,IN21,Jharkhand,22.56,84.395
+IN21D024,Saraikela-kharsawan,Saraikela-kharsawan,IN21,Jharkhand,22.85,86.007
+IN08D013,Jharsuguda,Jharsuguda,IN08,Odisha,21.714,83.827
+IN08D014,Debagarh,Debagarh,IN08,Odisha,21.449,84.829
+IN08D015,Sundargarh,Sundargarh,IN08,Odisha,22.166,84.754
+IN08D016,Kendujhar,Kendujhar,IN08,Odisha,21.513,85.664
+IN08D017,Kendrapara,Kendrapara,IN08,Odisha,20.539,86.58
+IN08D018,Jajapur,Jajapur,IN08,Odisha,20.856,86.159
+IN08D019,Dhenkanal,Dhenkanal,IN08,Odisha,20.813,85.519
+IN08D020,Anugul,Anugul,IN08,Odisha,20.866,84.9
+IN08D021,Nayagarh,Nayagarh,IN08,Odisha,20.223,85.007
+IN08D022,Gajapati,Gajapati,IN08,Odisha,19.22,84.187
+IN08D023,Kandhamal,Kandhamal,IN08,Odisha,20.212,84.101
+IN08D024,Bauda,Bauda,IN08,Odisha,20.724,84.136
+IN08D025,Subarnapur,Subarnapur,IN08,Odisha,20.959,83.819
+IN08D026,Balangir,Balangir,IN08,Odisha,20.587,83.174
+IN08D027,Nuapada,Nuapada,IN08,Odisha,20.595,82.538
+IN08D028,Kalahandi,Kalahandi,IN08,Odisha,19.869,83.1
+IN08D029,Nabarangapur,Nabarangapur,IN08,Odisha,19.617,82.303
+IN08D030,Malkangiri,Malkangiri,IN08,Odisha,18.324,82.08
+IN25D006,Koriya,Koriya,IN25,Chhattisgarh,23.548,82.327
+IN25D007,Jashpur,Jashpur,IN25,Chhattisgarh,22.833,83.915
+IN25D008,Raigarh,Raigarh,IN25,Chhattisgarh,22.153,83.306
+IN25D009,Kabeerdham,Kabeerdham,IN25,Chhattisgarh,22.084,81.253
+IN25D010,Rajnandgaon,Rajnandgaon,IN25,Chhattisgarh,21.051,80.744
+IN25D011,Durg,Durg,IN25,Chhattisgarh,20.778,81.221
+IN25D012,Raipur,Raipur,IN25,Chhattisgarh,21.537,81.993
+IN25D013,Mahasamund,Mahasamund,IN25,Chhattisgarh,21.08,82.408
+IN25D014,Dhamtari,Dhamtari,IN25,Chhattisgarh,20.674,81.748
+IN25D015,Uttar Bastar Kanker,Uttar Bastar Kanker,IN25,Chhattisgarh,20.215,81.236
+IN25D016,Narayanpur,Narayanpur,IN25,Chhattisgarh,19.498,81.146
+IN25D017,Dakshin Bastar Dantewada,Dakshin Bastar Dantewada,IN25,Chhattisgarh,18.551,81.476
+IN25D018,Bijapur,Bijapur,IN25,Chhattisgarh,18.878,80.785
+IN26D024,Sheopur,Sheopur,IN26,Madhya Pradesh,25.704,76.97
+IN26D025,Morena,Morena,IN26,Madhya Pradesh,26.414,77.869
+IN26D026,Bhind,Bhind,IN26,Madhya Pradesh,26.509,78.716
+IN26D027,Shivpuri,Shivpuri,IN26,Madhya Pradesh,25.38,77.799
+IN26D028,Sagar,Sagar,IN26,Madhya Pradesh,23.889,78.759
+IN26D029,Neemuch,Neemuch,IN26,Madhya Pradesh,24.567,75.114
+IN26D030,Mandsaur,Mandsaur,IN26,Madhya Pradesh,24.096,75.239
+IN26D031,Shajapur,Shajapur,IN26,Madhya Pradesh,23.793,76.128
+IN26D032,Dewas,Dewas,IN26,Madhya Pradesh,22.601,76.447
+IN26D033,West Nimar,West Nimar,IN26,Madhya Pradesh,21.935,75.774
+IN26D034,Barwani,Barwani,IN26,Madhya Pradesh,21.839,74.98
+IN26D035,Rajgarh,Rajgarh,IN26,Madhya Pradesh,23.83,76.734
+IN26D036,Vidisha,Vidisha,IN26,Madhya Pradesh,23.944,77.813
+IN26D037,Sehore,Sehore,IN26,Madhya Pradesh,22.944,77.182
+IN26D038,Harda,Harda,IN26,Madhya Pradesh,22.226,77.114
+IN26D039,Jabalpur,Jabalpur,IN26,Madhya Pradesh,23.299,80.018
+IN26D040,Narsimhapur,Narsimhapur,IN26,Madhya Pradesh,22.974,79.039
+IN26D041,Mandla,Mandla,IN26,Madhya Pradesh,22.555,80.556
+IN26D042,Chhindwara,Chhindwara,IN26,Madhya Pradesh,22.12,78.902
+IN26D043,Ashoknagar,Ashoknagar,IN26,Madhya Pradesh,24.615,77.883
+IN26D044,Anuppur,Anuppur,IN26,Madhya Pradesh,23.044,81.773
+IN26D045,Sidhi,Sidhi,IN26,Madhya Pradesh,24.266,81.693
+IN26D046,Singrauli,Singrauli,IN26,Madhya Pradesh,24.227,82.412
+IN26D047,Jhabua,Jhabua,IN26,Madhya Pradesh,22.945,74.677
+IN26D048,Alirajpur,Alirajpur,IN26,Madhya Pradesh,22.226,74.329
+IN26D049,East Nimar,East Nimar,IN26,Madhya Pradesh,21.916,76.56
+IN26D050,Burhanpur,Burhanpur,IN26,Madhya Pradesh,21.36,76.378
+IN29D018,Sabar Kantha,Sabar Kantha,IN29,Gujarat,23.55,73.164
+IN29D019,Ahmadabad,Ahmadabad,IN29,Gujarat,22.787,72.308
+IN29D020,Amreli,Amreli,IN29,Gujarat,21.401,71.22
+IN29D021,Dohad,Dohad,IN29,Gujarat,22.842,74.121
+IN29D022,Vadodara,Vadodara,IN29,Gujarat,22.171,73.307
+IN29D023,The Dangs,The Dangs,IN29,Gujarat,20.796,73.676
+IN29D024,Valsad,Valsad,IN29,Gujarat,20.431,73.242
+IN29D025,Surat,Surat,IN29,Gujarat,21.269,73.066
+IN29D026,Tapi,Tapi,IN29,Gujarat,21.049,73.404
+IN34D002,Diu,Diu,IN34,Daman and Diu,20.72,70.947
+IN09D001,Dadra & Nagar Haveli,Dadra & Nagar Haveli,IN09,Dadra and Nagar Haveli,20.242,73.017
+IN11D025,Nandurbar,Nandurbar,IN11,Maharashtra,21.74,74.277
+IN11D026,Washim,Washim,IN11,Maharashtra,20.191,77.182
+IN11D027,Amravati,Amravati,IN11,Maharashtra,21.053,77.786
+IN11D028,Gadchiroli,Gadchiroli,IN11,Maharashtra,19.684,80.136
+IN11D029,Hingoli,Hingoli,IN11,Maharashtra,19.593,77.193
+IN11D030,Parbhani,Parbhani,IN11,Maharashtra,19.273,76.639
+IN11D031,Bid,Bid,IN11,Maharashtra,18.97,75.935
+IN11D032,Latur,Latur,IN11,Maharashtra,18.255,76.729
+IN11D033,Sindhudurg,Sindhudurg,IN11,Maharashtra,16.225,73.658
+IN06D010,Hyderabad,Hyderabad,IN06,Andhra Pradesh,17.391,78.471
+IN06D011,Srikakulam,Srikakulam,IN06,Andhra Pradesh,18.571,83.885
+IN06D012,West Godavari,West Godavari,IN06,Andhra Pradesh,16.996,81.395
+IN06D013,Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore,IN06,Andhra Pradesh,14.446,79.743
+IN06D014,Y.s.r.,Y.s.r.,IN06,Andhra Pradesh,14.47,78.795
+IN10D024,Belgaum,Belgaum,IN10,Karnataka,16.021,74.834
+IN10D025,Bidar,Bidar,IN10,Karnataka,17.931,77.259
+IN10D026,Haveri,Haveri,IN10,Karnataka,14.76,75.424
+IN10D027,Gulbarga,Gulbarga,IN10,Karnataka,17.258,76.814
+IN10D028,Yadgir,Yadgir,IN10,Karnataka,16.695,77.16
+IN10D029,Chikkaballapura,Chikkaballapura,IN10,Karnataka,13.568,77.865
+IN30D002,South Goa,South Goa,IN30,Goa,15.124,74.118
+IN07D014,Kottayam,Kottayam,IN07,Kerala,9.66,76.651
+IN28D028,The Nilgiris,The Nilgiris,IN28,Tamil Nadu,11.452,76.68
+IN28D029,Perambalur,Perambalur,IN28,Tamil Nadu,11.256,78.911
+IN28D030,Thiruvarur,Thiruvarur,IN28,Tamil Nadu,10.694,79.511
+IN28D031,Krishnagiri,Krishnagiri,IN28,Tamil Nadu,12.653,78.042
+IN28D032,Tiruppur,Tiruppur,IN28,Tamil Nadu,10.892,77.503
+IN06D015,Yanam,Yanam,IN06,Andhra Pradesh,16.716,82.264
+IN07D015,Mahe,Mahe,IN07,Kerala,11.725,75.542
+IN27D002,Karaikal,Karaikal,IN27,Puducherry,10.941,79.809
+IN12D001,Nicobar,Nicobar,IN12,Andaman and Nicobar Islands,7.034,93.809
+IN12D002,North & Middle Andaman,North & Middle Andaman,IN12,Andaman and Nicobar Islands,13.214,92.943
+IN12D003,South Andaman,South Andaman,IN12,Andaman and Nicobar Islands,11.773,92.623
+IN37D020,Kupwara,Kupwara,IN37,Jammu and Kashmir,34.542,74.271
+IN36D003,Siachen Glacier,Siachen Glacier,IN36,Ladakh,35.317,77.118

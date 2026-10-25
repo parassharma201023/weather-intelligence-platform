@@ -1,0 +1,54 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Logs and generated history
+logs/
+*.log
+data/history/
+
+# Generated weather data (created by ETL)
+data/current_weather.csv
+data/weather_forecast.csv
+data/weather_errors.csv
+
+# Backups and test exports
+data/*_backup.csv
+data/*_db.csv
+data/weather_api_test.csv
+
+# Local duplicate exports
+/current_weather.csv
+/weather_forecast.csv
+
+# Temporary archives
+frontend-backup.zip
+
+# Local testing and preparation scripts
+/check_districts.py
+/check_neon.py
+/test_app_database.py
+/test_db_connection.py
+/test_multiple_districts.py
+/test_weather_api.py
+/validate_weather.py
+/prepare_db_csv.py
+/prepare_districts.py
+
+# Legacy root scripts
+/weather_data.py
+/weather_etl.py
+/run_daily_etl.bat
+
+# Python/editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
