@@ -19,17 +19,13 @@ app = FastAPI(
 # Local development + deployed Cloudflare frontend
 # --------------------------------------------------
 
-frontend_url = os.getenv("FRONTEND_URL", "").rstrip("/")
+from fastapi.middleware.cors import CORSMiddleware
 
 allowed_origins = [
     "http://127.0.0.1:5500",
     "http://localhost:5500",
     "https://weather-intelligence-platform.paras07sharma07.workers.dev",
 ]
-
-# Add a custom frontend URL if configured in Render
-if frontend_url and frontend_url not in allowed_origins:
-    allowed_origins.append(frontend_url)
 
 app.add_middleware(
     CORSMiddleware,
@@ -38,7 +34,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 # --------------------------------------------------
 # Root endpoint
